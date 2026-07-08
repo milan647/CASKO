@@ -1,4 +1,4 @@
-# 🍾 PegBazar — Legal Alcohol Home Delivery
+# CASKO— Legal Alcohol Home Delivery
 
 > Premium spirits, delivered fast. A full-stack MERN application for legal alcohol home delivery.
 
