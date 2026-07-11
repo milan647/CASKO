@@ -59,12 +59,12 @@ cd frontend && npm run dev   # http://localhost:5173
 - **Storage:** Cloudinary
 
 ## Features
-- 🍾 Premium dark UI with glassmorphism & Three.js 3D hero
-- 👤 Multi-role auth (Customer, Vendor, Admin, Delivery)
-- 🛒 Cart, checkout with state restriction checks
-- 📦 Order tracking & vendor management
-- 🔒 Age verification (21+) on signup & checkout
-- 🚫 Restricted state enforcement (Gujarat, Bihar, etc.)
+- Premium dark UI with glassmorphism & Three.js 3D hero
+- Multi-role auth (Customer, Vendor, Admin, Delivery)
+- Cart, checkout with state restriction checks
+- Order tracking & vendor management
+- Age verification (21+) on signup & checkout
+- Restricted state enforcement (Gujarat, Bihar, etc.)
 
 ## API Health Check
 ```
